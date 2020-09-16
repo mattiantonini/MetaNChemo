@@ -1,5 +1,5 @@
 # MetaNChemo
-This is the public repository of MetaNChemo, a meta-heuristic neural-based framework for chemometric analysis.
+This is the public repository of MetaNChemo, a meta-heuristic neural-based framework for chemometric analysis. You can find the original manuscript [here](http://www.sciencedirect.com/science/article/pii/S1568494620306505).
 
 We are adapting and cleaning the code before realising it. For any question, you can contact me at `m.antonini [at] fbk [dot] eu`.
 
